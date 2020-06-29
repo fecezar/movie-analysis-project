@@ -189,7 +189,7 @@ Preparation, modeling, visualisation and interpretation of the data, allowed us 
 
 __Key Takeaways__
 
-* Adventure films on average are the most profitable
+* War films on average are the most profitable
 
 * The industry leaders preferred creating Action, Drama & Comedy films
 
